@@ -4,7 +4,7 @@ Compact bass preamp for adding second input to an existing amplifier
 
 ## If you just want to read about it
 
-Here's the [main design article for version 1](https://github.com/bassistTech/ChannelTwoPreamp/blob/main/Docs/Channel%20Two%20Preamp%20-%20v1.pdf).
+Here's the [main design article for version 1](https://raw.githubusercontent.com/bassistTech/ChannelTwoPreamp/blob/main/Docs/Channel%20Two%20Preamp%20-%20v1.pdf).
 
 ## Important Files
 
