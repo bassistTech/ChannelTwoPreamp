@@ -4,7 +4,7 @@ Compact bass preamp for adding second input to an existing amplifier
 
 ## Here's the prototype
 
-![prototype](docs/imgv2/gitpic.png)
+![prototype](Docs/imgv2/gitpic.png)
 
 ## If you just want to read about it
 
